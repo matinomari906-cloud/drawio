@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="4200" height="1140" viewBox="0 0 4200 1140" role="img" aria-labelledby="title description">
+  <title id="title">Haji Fazل Ahmad Omar Residential Township — hierarchy diagram</title>
+  <desc id="description">An illustrative organizational hierarchy connecting the township to nine development sections, example blocks, and numbered plots 1 through 24.</desc>
+  <defs>
+    <linearGradient id="header" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102b4e"/>
+      <stop offset="1" stop-color="#1c4772"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#172b42" flood-opacity=".08"/>
+    </filter>
+    <g id="plot-grid">
+      <rect width="372" height="352" rx="12" fill="#f5f8fc" stroke="#d7e1ec" stroke-width="2"/>
+      <path d="M124 0v352M248 0v352M0 44h372M0 88h372M0 132h372M0 176h372M0 220h372M0 264h372M0 308h372" fill="none" stroke="#d7e1ec" stroke-width="1.5"/>
+      <g fill="#243b53" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="600">
+        <text x="14" y="29"><tspan>Plot 1</tspan><tspan x="14" dy="44">Plot 2</tspan><tspan x="14" dy="44">Plot 3</tspan><tspan x="14" dy="44">Plot 4</tspan><tspan x="14" dy="44">Plot 5</tspan><tspan x="14" dy="44">Plot 6</tspan><tspan x="14" dy="44">Plot 7</tspan><tspan x="14" dy="44">Plot 8</tspan></text>
+        <text x="138" y="29"><tspan>Plot 9</tspan><tspan x="138" dy="44">Plot 10</tspan><tspan x="138" dy="44">Plot 11</tspan><tspan x="138" dy="44">Plot 12</tspan><tspan x="138" dy="44">Plot 13</tspan><tspan x="138" dy="44">Plot 14</tspan><tspan x="138" dy="44">Plot 15</tspan><tspan x="138" dy="44">Plot 16</tspan></text>
+        <text x="262" y="29"><tspan>Plot 17</tspan><tspan x="262" dy="44">Plot 18</tspan><tspan x="262" dy="44">Plot 19</tspan><tspan x="262" dy="44">Plot 20</tspan><tspan x="262" dy="44">Plot 21</tspan><tspan x="262" dy="44">Plot 22</tspan><tspan x="262" dy="44">Plot 23</tspan><tspan x="262" dy="44">Plot 24</tspan></text>
+      </g>
+    </g>
+    <style>
+      text { font-family: Inter, Arial, sans-serif; }
+      .connector { fill: none; stroke: #9aacc0; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+      .card { fill: #fff; stroke: #dce5ee; stroke-width: 2; }
+      .part { fill: #102b4e; font-size: 23px; font-weight: 700; }
+      .part-sub { fill: #74859a; font-size: 14px; font-weight: 600; letter-spacing: 1.4px; }
+      .label { fill: #66788d; font-size: 13px; font-weight: 700; letter-spacing: 1.5px; }
+      .block { fill: #eaf1f8; stroke: #9ab3cc; stroke-width: 2; }
+      .block-text { fill: #173d63; font-size: 21px; font-weight: 700; }
+      .plot-caption { fill: #344c66; font-size: 15px; font-weight: 700; }
+    </style>
+  </defs>
+
+  <rect width="4200" height="1140" fill="#f7f9fc"/>
+  <path class="connector" d="M2100 208v54M304 262h3592M304 262v52M748 262v52M1192 262v52M1636 262v52M2080 262v52M2524 262v52M2968 262v52M3412 262v52M3856 262v52"/>
+
+  <g filter="url(#shadow)">
+    <rect x="1540" y="66" width="1120" height="142" rx="22" fill="url(#header)"/>
+    <circle cx="1600" cy="137" r="23" fill="#9fc5e8" opacity=".22"/>
+    <path d="M1588 140l12-15 12 15v13h-24zM1595 153v-10h10v10" fill="none" stroke="#dbeaf7" stroke-width="2.2" stroke-linejoin="round"/>
+    <text x="1642" y="127" fill="#fff" font-size="35" font-weight="700">Haji Fazل Ahmad Omar Residential Township</text>
+    <text x="1644" y="166" fill="#bed1e3" font-size="15" font-weight="600" letter-spacing="2">DEVELOPMENT HIERARCHY  ·  LAND ALLOCATION OVERVIEW</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect class="card" x="100" y="314" width="408" height="710" rx="18"/>
+    <rect x="100" y="314" width="408" height="7" rx="4" fill="#2b6598"/>
+    <text class="part-sub" x="124" y="354">DEVELOPMENT PART</text><text class="part" x="124" y="386">Part 1</text>
+    <path class="connector" d="M304 398v25"/>
+    <text class="label" x="124" y="445">REPRESENTATIVE BLOCK</text>
+    <rect class="block" x="124" y="460" width="360" height="66" rx="12"/>
+    <text class="block-text" x="304" y="501" text-anchor="middle">Block 1</text>
+    <path class="connector" d="M304 526v42"/>
+    <text class="plot-caption" x="124" y="596">Individual numbered plots</text>
+    <use xlink:href="#plot-grid" x="122" y="618"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect class="card" x="544" y="314" width="408" height="710" rx="18"/>
+    <rect x="544" y="314" width="408" height="7" rx="4" fill="#2b6598"/>
+    <text class="part-sub" x="568" y="354">DEVELOPMENT PART</text><text class="part" x="568" y="386">Part 2</text>
+    <path class="connector" d="M748 398v25"/>
+    <text class="label" x="568" y="445">REPRESENTATIVE BLOCK</text>
+    <rect class="block" x="568" y="460" width="360" height="66" rx="12"/>
+    <text class="block-text" x="748" y="501" text-anchor="middle">Block 2</text>
+    <path class="connector" d="M748 526v42"/>
+    <text class="plot-caption" x="568" y="596">Individual numbered plots</text>
+    <use xlink:href="#plot-grid" x="566" y="618"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect class="card" x="988" y="314" width="408" height="710" rx="18"/>
+    <rect x="988" y="314" width="408" height="7" rx="4" fill="#2b6598"/>
+    <text class="part-sub" x="1012" y="354">DEVELOPMENT PART</text><text class="part" x="1012" y="386">Part 3</text>
+    <path class="connector" d="M1192 398v25"/>
+    <text class="label" x="1012" y="445">REPRESENTATIVE BLOCK</text>
+    <rect class="block" x="1012" y="460" width="360" height="66" rx="12"/>
+    <text class="block-text" x="1192" y="501" text-anchor="middle">Block 15</text>
+    <path class="connector" d="M1192 526v42"/>
+    <text class="plot-caption" x="1012" y="596">Individual numbered plots</text>
+    <use xlink:href="#plot-grid" x="1010" y="618"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect class="card" x="1432" y="314" width="408" height="710" rx="18"/>
+    <rect x="1432" y="314" width="408" height="7" rx="4" fill="#2b6598"/>
+    <text class="part-sub" x="1456" y="354">DEVELOPMENT PART</text><text class="part" x="1456" y="386">Part 4</text>
+    <path class="connector" d="M1636 398v25"/>
+    <text class="label" x="1456" y="445">REPRESENTATIVE BLOCK</text>
+    <rect class="block" x="1456" y="460" width="360" height="66" rx="12"/>
+    <text class="block-text" x="1636" y="501" text-anchor="middle">Block 65</text>
+    <path class="connector" d="M1636 526v42"/>
+    <text class="plot-caption" x="1456" y="596">Individual numbered plots</text>
+    <use xlink:href="#plot-grid" x="1454" y="618"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect class="card" x="1876" y="314" width="408" height="710" rx="18"/>
+    <rect x="1876" y="314" width="408" height="7" rx="4" fill="#2b6598"/>
+    <text class="part-sub" x="1900" y="354">DEVELOPMENT PART</text><text class="part" x="1900" y="386">Part 5</text>
+    <path class="connector" d="M2080 398v25"/>
+    <text class="label" x="1900" y="445">REPRESENTATIVE BLOCK</text>
+    <rect class="block" x="1900" y="460" width="360" height="66" rx="12"/>
+    <text class="block-text" x="2080" y="501" text-anchor="middle">Block 100</text>
+    <path class="connector" d="M2080 526v42"/>
+    <text class="plot-caption" x="1900" y="596">Individual numbered plots</text>
+    <use xlink:href="#plot-grid" x="1898" y="618"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect class="card" x="2320" y="314" width="408" height="710" rx="18"/>
+    <rect x="2320" y="314" width="408" height="7" rx="4" fill="#2b6598"/>
+    <text class="part-sub" x="2344" y="354">DEVELOPMENT PART</text><text class="part" x="2344" y="386">Part 6</text>
+    <path class="connector" d="M2524 398v25"/>
+    <text class="label" x="2344" y="445">REPRESENTATIVE BLOCK</text>
+    <rect class="block" x="2344" y="460" width="360" height="66" rx="12"/>
+    <text class="block-text" x="2524" y="501" text-anchor="middle">Block 101</text>
+    <path class="connector" d="M2524 526v42"/>
+    <text class="plot-caption" x="2344" y="596">Individual numbered plots</text>
+    <use xlink:href="#plot-grid" x="2342" y="618"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect class="card" x="2764" y="314" width="408" height="710" rx="18"/>
+    <rect x="2764" y="314" width="408" height="7" rx="4" fill="#2b6598"/>
+    <text class="part-sub" x="2788" y="354">DEVELOPMENT PART</text><text class="part" x="2788" y="386">Part 7</text>
+    <path class="connector" d="M2968 398v25"/>
+    <text class="label" x="2788" y="445">REPRESENTATIVE BLOCK</text>
+    <rect class="block" x="2788" y="460" width="360" height="66" rx="12"/>
+    <text class="block-text" x="2968" y="501" text-anchor="middle">Block 102</text>
+    <path class="connector" d="M2968 526v42"/>
+    <text class="plot-caption" x="2788" y="596">Individual numbered plots</text>
+    <use xlink:href="#plot-grid" x="2786" y="618"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect class="card" x="3208" y="314" width="408" height="710" rx="18"/>
+    <rect x="3208" y="314" width="408" height="7" rx="4" fill="#2b6598"/>
+    <text class="part-sub" x="3232" y="354">DEVELOPMENT PART</text><text class="part" x="3232" y="386">Part 9</text>
+    <path class="connector" d="M3412 398v25"/>
+    <text class="label" x="3232" y="445">REPRESENTATIVE BLOCK</text>
+    <rect class="block" x="3232" y="460" width="360" height="66" rx="12"/>
+    <text class="block-text" x="3412" y="501" text-anchor="middle">Block 103</text>
+    <path class="connector" d="M3412 526v42"/>
+    <text class="plot-caption" x="3232" y="596">Individual numbered plots</text>
+    <use xlink:href="#plot-grid" x="3230" y="618"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect class="card" x="3652" y="314" width="408" height="710" rx="18"/>
+    <rect x="3652" y="314" width="408" height="7" rx="4" fill="#5c7391"/>
+    <text class="part-sub" x="3676" y="354">SPECIALIZED DEVELOPMENT</text><text class="part" x="3676" y="386">High-Rise Buildings</text>
+    <path class="connector" d="M3856 398v25"/>
+    <text class="label" x="3676" y="445">REPRESENTATIVE BLOCK</text>
+    <rect class="block" x="3676" y="460" width="360" height="66" rx="12"/>
+    <text class="block-text" x="3856" y="501" text-anchor="middle">Block 104</text>
+    <path class="connector" d="M3856 526v42"/>
+    <text class="plot-caption" x="3676" y="596">Individual numbered plots</text>
+    <use xlink:href="#plot-grid" x="3674" y="618"/>
+  </g>
+
+  <circle cx="304" cy="262" r="6" fill="#68839e"/>
+  <circle cx="748" cy="262" r="6" fill="#68839e"/>
+  <circle cx="1192" cy="262" r="6" fill="#68839e"/>
+  <circle cx="1636" cy="262" r="6" fill="#68839e"/>
+  <circle cx="2080" cy="262" r="6" fill="#68839e"/>
+  <circle cx="2524" cy="262" r="6" fill="#68839e"/>
+  <circle cx="2968" cy="262" r="6" fill="#68839e"/>
+  <circle cx="3412" cy="262" r="6" fill="#68839e"/>
+  <circle cx="3856" cy="262" r="6" fill="#68839e"/>
+
+  <text x="2100" y="1082" text-anchor="middle" fill="#60738a" font-size="15" font-weight="600">ILLUSTRATIVE STRUCTURE · Example block assignments and plot numbering; verify against the approved development schedule.</text>
+</svg>
